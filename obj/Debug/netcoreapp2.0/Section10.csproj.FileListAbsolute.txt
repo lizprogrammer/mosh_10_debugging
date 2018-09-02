@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/Section10/bin/Debug/netcoreapp2.0/Section10.deps.json
+/home/ubuntu/workspace/Section10/bin/Debug/netcoreapp2.0/Section10.runtimeconfig.json
+/home/ubuntu/workspace/Section10/bin/Debug/netcoreapp2.0/Section10.runtimeconfig.dev.json
+/home/ubuntu/workspace/Section10/bin/Debug/netcoreapp2.0/Section10.dll
+/home/ubuntu/workspace/Section10/bin/Debug/netcoreapp2.0/Section10.pdb
+/home/ubuntu/workspace/Section10/obj/Debug/netcoreapp2.0/Section10.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/Section10/obj/Debug/netcoreapp2.0/Section10.AssemblyInfo.cs
+/home/ubuntu/workspace/Section10/obj/Debug/netcoreapp2.0/Section10.dll
+/home/ubuntu/workspace/Section10/obj/Debug/netcoreapp2.0/Section10.pdb
