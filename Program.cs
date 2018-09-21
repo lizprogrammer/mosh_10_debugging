@@ -1,4 +1,4 @@
-﻿using System;
+cd ..﻿using System;
 
 namespace Section10
 {
